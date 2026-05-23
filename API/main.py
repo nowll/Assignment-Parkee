@@ -58,5 +58,6 @@ def process_university_data(country_name):
 
 
 if __name__ == "__main__":
+    # parameter 'search_country' dapat diganti dengan negara yang ingin di cari
     search_country = "Canada"
     process_university_data(search_country)
